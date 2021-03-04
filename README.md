@@ -15,7 +15,7 @@ Javaを用いたGUIで入力できる電卓
 # Usage
 * コンパイルコマンド
 ```bash
-javac -p "保存したjavafxのlibファイルへのpath" --add-modules javafx.controls Caluculator.java
+javac -p "保存したjavafxのlibファイルへのpath" --add-modules javafx.controls -encoding UTF-8 Caluculator.java
 ```
 * 実行コマンド
 ```bash
